@@ -1,0 +1,15 @@
+Description
+Context
+
+Linio.com is Latin America’s leading eCommerce platform. It have recently released the 2016-17 Technology Price Index comparing the cost of 14 popular electronic devices and brands, across 72 countries. Linio conducted a pretty impressive research study for better understanding the global economic trends in the price of most popular electronic devices. From http://www.outsourcingportal.eu/en/linio-com-compares-the-cost-of-technology-products-in-72-countries: To conduct the research Linio looked at the costs of all products in the study from several brick and mortar chain stores and smaller retailers in all major cities in each country. The study also took into account average costs from at least three reputable online outlets in each country. Taxes and other associated purchasing costs, minus delivery, were also accounted for.
+Content
+
+This dataset contains the cost of 14 different devices including smartphones, laptops, game consoles, tablets, smart devices, and other gadgets, across 72 different countries. ranking the countries on the average cost of all products researched. The dataset was downloaded from Linio.com in December 2016.
+Acknowledgements
+
+The dataset was taken from here: https://www.linio.com.mx/sp/technology-price-index-2016 without any modifications.
+Inspiration
+
+    Is it possible to predict the cost of my favorite iPhone based on 13 other devices?
+    What device has the most unpredictable trend?
+    What products have the highest variability in price and whether it was caused by the same countries?
